@@ -8,7 +8,7 @@ export default function HeroSection(params) {
                 <div className="hero-text-section">
                     <h1>Elevate Your Code, Empower Your Projects!</h1>
                     <p>
-                        Whether you're a coding novice or a seasoned pro, our platform is
+                        Whether you&apos;re a coding novice or a seasoned pro, our platform is
                         designed to fuel your passion and drive your projects to new
                         heights.
                     </p>

@@ -94,7 +94,7 @@ export default function Home() {
         </div>
       </section>
 
-      <script src="https://unpkg.com/ionicons@latest/dist/ionicons.js"></script>
+
 
     </main>
   );
